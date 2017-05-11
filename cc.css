@@ -1,0 +1,43 @@
+/*p{
+        font-style: italic;
+        font-weight: 900;
+        text-align:left;
+       font-family:'楷体';
+       font-size: 20px;
+       line-height: 1.5em;
+       text-indent: 3em;
+}
+	
+       } 
+    p a:link{
+     	color: green;
+     	text-decoration: none;
+     a:visvited{
+
+     }
+     }
+    a:hover{
+    	color: red;
+
+    
+    a:active{
+    	color:black;
+    }
+   input:focus{
+   	background: black;
+*/
+body{
+  background: gray
+}
+#third{
+  background-image: url(image/1.jpg);
+  width: 800px;
+  height: 400px;
+  background-repeat:no-repeat;
+  /*background-position: top-center;*/
+  background-size: 400px 200px;
+}
+div{
+
+}
+ul
