@@ -25,7 +25,7 @@
     }
    input:focus{
    	background: black;
-*/
+
 body{
   background: gray
 }
@@ -34,10 +34,26 @@ body{
   width: 800px;
   height: 400px;
   background-repeat:no-repeat;
-  /*background-position: top-center;*/
+  /*background-position: top-center;
   background-size: 400px 200px;
 }
 div{
 
 }
 ul
+*/
+p{
+  width: 200px;
+  height: 100px;
+  border-bottom:3px dotted #FF9900; 
+border-left:5px solid #66CC33; 
+border-right:3px double #FF66FF; 
+border-top:5px dashed #0099FF;
+padding: 20px;
+
+}
+a{
+  border: 5px dotted #FF9900;
+  padding: 20px;
+
+}
