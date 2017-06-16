@@ -1,0 +1,282 @@
+*{
+	margin: auto;
+	font-size: 12px;
+	color: #522a06;
+	padding: 0px;
+	font-family: '宋体';
+}
+img{
+	border: 0;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+a:link{
+	color: #522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+body{
+	background-image: url(../images/bodybg.gif);
+}
+#header{
+	height: 205px;
+	background-image: url(../images/bg.gif);
+	margin:auto;
+}
+#banner{
+	width: 1000px;
+	height: 164px;
+    margin: auto;
+}
+#banner img{
+     margin-top: 38px;
+     margin-left: 25px;
+}
+#nav{
+	height: 40px;
+    background-image: url(../images/nav.jpg);
+}
+.nav_body{
+	width: 1000px;
+    margin: auto;
+}
+.nav_content{
+	width: 800px;
+	font-weight: bold;
+	color: #fff;
+	margin-left: 5px;
+}
+.one li{
+	float: left;
+}
+.one li a{
+	line-height:40px; 
+	color: #fff;
+}
+.one li a:hover{
+	color: #f9f603;
+	text-decoration: none;
+}
+#two{
+    color: #f9f603;
+}
+.nav_search input[type="text"]{
+    width: 140px;
+    height: 19px;
+    background-color: #f8f5ee;
+    margin: 10px 0px 10px 100px;
+}
+button{
+	width: 44px;
+	height: 21px;
+	background-color: #000;
+	color: #fff;
+	border: 1px solid #f8f5ee;
+    margin-left: 0px;
+}
+#content{
+	width: 1000px;
+	margin: auto;
+	clear: both;
+}
+#content_top{
+	overflow: hidden;
+}
+.news_pic{
+	margin-top: 10px;
+	width: 324px;
+	height: 243px;
+	background-image: url(../images/news_bg.png);
+    float: left;
+}
+.news_pic img{
+	width: 300px;
+	height: 200px;
+	margin: 10px 10px;
+}
+.news_pic p{
+	width: 300px;
+	height: 22px;
+	text-align: center;
+}
+.news_list{
+	width: 330px;
+	margin-left: 38px;
+	float: left;
+}
+.three{
+	background-image: url(../images/change.png);
+	height: 25px;
+	background-repeat: no-repeat;
+	margin-top: 5px;
+}
+.three span a img{
+	float: right;
+	height: 25px;
+}
+.news_list ul li{
+	list-style-type: square; 
+	line-height: 30px;
+}
+.news_list ul li span{
+	float: right;
+	margin: 0px;
+}
+.news_announce{
+	width: 277px;
+	margin-top: 20px;
+	float: right;
+}
+.news_announce img{
+	margin: 0px 60px;
+}
+.news_announce ul{
+    width: 285px;
+    height: 210px;
+    list-style-type: square;
+    background-image:url(../images/board_bg.png);
+    background-repeat: no-repeat;
+}
+.news_announce ul li{
+    line-height: 30px;
+    margin-left: 20px;
+}
+#content_bottom_left{
+	width: 715px;
+	float: left;
+}
+.academic{
+	width: 340px;
+	margin-left: 0px;
+	float: left;
+}
+.four{
+	background-image: url(../images/academic.png);
+    height: 54px;
+}
+.four span{
+	float: right;
+}	
+.academic ul li{
+    line-height: 30px;
+    margin-left: 0px;
+    list-style-type: square; 
+}
+.academic ul li span{
+	float: right;
+}
+.book_news{
+	width: 340px;
+	margin-left: 25px;
+	float: left;
+}
+.five{
+	background-image: url(../images/book_news.png);
+	height: 54px;
+	margin: 0px;
+}
+.five span{
+	float: right;
+}
+.book_news ul li{
+    line-height: 30px;
+    margin-left: 0px;
+    list-style-type: square;
+}
+.book_news ul li span{
+	float: right;
+}
+.fengcai{
+	width: 700px;
+	clear: both;
+}
+.six{
+	background-image: url(../images/fengcai_bg1.png);
+	height: 54px;
+	background-repeat: no-repeat;
+}
+.six span{
+	float: right;
+}
+.seven{
+	height: 136px;
+	padding: 20px;
+	background-image: url(../images/fengcai_bg2.png);
+	background-repeat: no-repeat;
+}
+.seven ul li{
+	float: left;
+}
+.seven ul li img{
+	margin: 3px;
+}
+#content_bottom_right{
+	width: 280px;
+	margin-top: 20px;
+	float: right;
+}
+.eight{
+	background-image: url(../images/show.png);
+	background-repeat: no-repeat;
+	height: 23px;
+    margin-left: 80px; 
+}
+.nine{
+	width: 362px;
+	background-image: url(../images/show_bg.png);
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 20px;
+}
+.ten{
+	width: 224px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.eleven{
+	margin-left: 25px;
+	margin-top: 15px;
+	line-height: 22px;
+	margin-right: 110px;
+}
+.eleven font{
+	color: #B00000;
+	font-weight: bold;
+}
+.first{
+	float: right;
+	margin-right: 110px;
+	margin-bottom: 5px;
+}
+#footer{
+	height: 105px;
+	clear: both;
+	background-image: url(../images/foot.gif);
+	background-repeat:no-repeat;
+}
+.second ul{
+	margin-left: 450px;
+	font-weight: bolder;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+.second ul li{
+	float: left;
+}
+#footer img{
+	margin-left: 410px;
+}
+.p1{
+	text-align: center;
+	margin-top: 5px;
+}
+.p2{
+	text-align: center;
+	margin-top: 5px;
+	padding-bottom: 20px;
+}

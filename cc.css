@@ -41,7 +41,7 @@ div{
 
 }
 ul
-*/
+
 p{
   width: 200px;
   height: 100px;
@@ -56,4 +56,140 @@ a{
   border: 5px dotted #FF9900;
   padding: 20px;
 
+}*/
+
+
+
+
+
+
+
+
+
+
+/*  margin: 0px;
+  padding: 0px;
+}
+.mybody{
+  width: 1005px;
+  height: 1800px;
+}
+.header{
+  width: 1000px;
+  height: 600px;
+  border:1px #00ff00 solid;
+  margin-left: 20;
+}
+.content{
+  width: 1000px;
+  height: 600px;
+  border:1px #00ff00 solid;
+  margin-left: 20;
+}
+
+.footer{
+   width: 1000px;
+  height: 600px;
+  border:1px #00ff00 solid;
+  margin-left: 20;
+}
+.news{
+  width: 300;
+  height: 150;
+  border:1px #0000ff solid; 
+  float:left;
+  margin-left: 20;
+}
+.menu{
+  width: 300;
+  height: 150;
+  border: 1px #0000ff solid; 
+  float: left;
+  margin-left: 20;
+}
+.link{
+  width: 300;
+  height: 150;
+  border: 1px #0000ff solid; 
+  float: left;
+  margin-left: 20;
+}
+.div{
+  width: 1000;
+  height: 100;
+  background-color: #fffaf0;
+}
+.logo{
+  width: 1000;
+  height: 200;
+ background-color: #8fffff;
+}
+.div{
+  width: 1000;
+  height: 300;
+  background-color: red;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+.oneul{
+   list-style: none;
+ }
+.oneul a{
+  color: gray;
+  text-decoration: none;
+}
+.oneul li{
+   width: 200px;
+   height: 50px;
+   line-height: 50px;
+   text-align: center;
+  border: 1px #6600cc solid;
+  float: left;
+  margin-right: 2px;
+  background-color: red;
+}
+.twoul{
+  list-style: none;
+  position: relative;
+  left: -42px;
+  display: none;
+}
+.twoul li{
+   width: 200px;
+   height: 50px;
+   line-height: 50px;
+   text-align: center;
+  border: 1px #6600cc solid;
+  background-color: red;
+  margin: 1px;
+}
+.oneul li:hover .twoul{
+  display: block;
+}
+
+/*.div1{
+  
+  width: 100px;
+  height: 270px;
+  border: 2px #b0b0b0 solid;  
+}
+div img{
+  width: 80px;
+  height: 230px;
+  margin: 0px 10px;
+}
+.div1 .div2{
+   width: 80px;
+   height: 40px;
+  margin:0px 3px;
+  border: 1px #b0b0b0 solid;
 }
