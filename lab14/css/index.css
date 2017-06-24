@@ -27,26 +27,21 @@
 	background-repeat: no-repeat;
 	background-size: 1300px 200px;
 }
-
-
 .daohang{
 	background-image: url(../images/8.png);
 	background-size: 1600px 100px;
-    width: 1500px;
-	margin:0px 0px;
-	
-	padding: 0px 500px;
-	
+    width: 900px;
+	margin:0px 0px;	
+	padding: 0px 300px;	
 	float: left;
 }
 .daohang a{
-	text-decoration:none;
-   
+	text-decoration:none;  
 }
 .daohang ul li {
 	float: left;
-	list-style-type: none;
-	
+	list-style-type: none;	
+	padding-right: 50px;
 }
 .two{
 	float: left;
@@ -61,18 +56,18 @@
 }
 .wenzi{
 	text-indent: 2em;
-	
-	margin: 10px 240px;
-	
-
+	margin: 10px 240px;	
 }
 .yinyue{
 	float: left;	
 	width: 500px;
 	height: 200px;
 	text-align: center;
-	/*margin: 10px 10px;*/
+	
 	padding: 50px 100px;
+}
+.yinyue ul li{
+	list-style-type: none;
 }
 .yinyue a{
 	text-decoration: none;
@@ -121,4 +116,7 @@
 }
 .yy{
 	color: #0ff000;
+}
+.hh{
+	font-size: 30px;
 }
