@@ -57,7 +57,7 @@
 	margin: 20px 20px;
 	padding: 30px 30px;
 }
-.bisai ol li a{
+.bisai ul li a{
 	text-decoration: none;
 }
 .fanhui{
@@ -79,7 +79,7 @@ span{
 	margin: 0px 0px;
 	float: right;
 }
-.geming  ol li{
+.geming  ul li{
     padding: 10px 60px;
 	margin: 0px 0px;
 }
