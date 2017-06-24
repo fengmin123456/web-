@@ -1,0 +1,98 @@
+.one{
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+.logo{
+	float: right;
+}
+.logo img{
+	width: 200px;
+	height: 100px;  
+}
+.search{
+	margin:0px 0px;
+	padding: 40px 200px;	
+}
+.banner{
+	margin: 0px 0px;
+	padding: 0px 0px;
+	background-image: url(../images/10.jpg);
+	background-repeat: no-repeat;
+	background-size: 1300px 200px;
+}
+.daohang{
+	background-image: url(../images/8.png);
+	background-size: 1550px 100px;
+    width: 630px;
+	margin:0px 0px;	
+	padding: 0px 440px;	
+	float: left;
+}
+.daohang a{
+	text-decoration:none;  
+}
+.daohang ul li{
+	float: left;
+	list-style-type: none;
+}
+
+.four{
+	padding: 0px 10px;
+}
+.content{
+	padding: 5px 100px;
+}
+.wenzi{
+	width: 750px;
+	height: 500px;
+	float: left;
+}
+p{
+	text-indent: 2em;
+
+}
+
+.tupian img{
+	width: 760px;
+	height: 300px;
+}
+.fanhui{
+	float: right;
+}
+h1{
+	padding: 0px 20px;
+	margin: 5px 5px;
+}
+.er{
+    float: left;
+    padding: 40px 60px;
+}
+.biaodan{
+   padding: 0px 20px;
+}
+.liebiao ul li{
+	
+	list-style-type: square;
+	font-size: 15px;
+}
+
+.shafa{
+	opacity: 0.5;
+}
+.footer{
+	height: 30px;
+	float: left;
+    padding: 0px 200px; 
+    margin: 0px 0px;
+}
+.xiaoyuan img{
+	float: right;
+	width: 320px;
+	height: 400px;
+}
+.xiaoyuan{
+	padding: 1px 20px;
+}
+.enen{
+	color: red;
+}

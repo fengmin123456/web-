@@ -1,0 +1,124 @@
+
+.one{
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+.logo{
+	float: right;
+}
+.logo img{
+	width: 200px;
+	height: 100px;
+  
+}
+.search{
+	margin:0px 0px;
+	padding: 40px 200px;
+	
+}
+.yanse{
+	color: #ff00ff;
+}
+.banner{
+
+	margin: 0px 0px;
+	padding: 0px 0px;
+	background-image: url(../images/10.jpg);
+	background-repeat: no-repeat;
+	background-size: 1300px 200px;
+}
+
+
+.daohang{
+	background-image: url(../images/8.png);
+	background-size: 1600px 100px;
+    width: 1500px;
+	margin:0px 0px;
+	
+	padding: 0px 500px;
+	
+	float: left;
+}
+.daohang a{
+	text-decoration:none;
+   
+}
+.daohang ul li {
+	float: left;
+	list-style-type: none;
+	
+}
+.two{
+	float: left;
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+.daohang a:link{
+    color: #00ff00;
+}
+.daohang a:hover{
+    color: #ff00ff;
+}
+.wenzi{
+	text-indent: 2em;
+	
+	margin: 10px 240px;
+	
+
+}
+.yinyue{
+	float: left;	
+	width: 500px;
+	height: 200px;
+	text-align: center;
+	/*margin: 10px 10px;*/
+	padding: 50px 100px;
+}
+.yinyue a{
+	text-decoration: none;
+}
+.yinyue a:link{
+	opacity: 1.0;
+}
+.yinyue a:hover{
+	opacity: 0.5;
+}
+.zuixin{
+   float: left;
+   width: 200px;
+   height: 200px;
+   margin: 10px 10px;
+	padding: 50px 100px;
+   
+}
+.biaodan{
+  float: right;
+  width: 500px;
+  height: 200px;
+  margin: 20px 10px;
+  padding-right: 10px;
+}
+
+.footer{
+	background-image: url(../images/9.png);
+	text-align: center;
+	
+}
+.three{
+    margin: 0px 0px;
+    padding: 0px 240px;
+
+}
+.four a{
+    padding: 2px 5px;
+    margin: 2px 2px;
+}
+.content{
+	background-image: url(../images/7.png);
+	background-repeat: no-repeat;
+	background-size: 1520px 800px;
+    margin: 4px 4px;
+}
+.yy{
+	color: #0ff000;
+}

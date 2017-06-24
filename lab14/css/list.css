@@ -1,0 +1,97 @@
+.one{
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+.logo{
+	float: right;
+}
+.logo img{
+	width: 200px;
+	height: 100px;  
+}
+.search{
+	margin:0px 0px;
+	padding: 40px 200px;	
+}
+.banner{
+	margin: 0px 0px;
+	padding: 0px 0px;
+	background-image: url(../images/10.jpg);
+	background-repeat: no-repeat;
+	background-size: 1300px 200px;
+}
+.daohang{
+	background-image: url(../images/8.png);
+	background-size: 1600px 100px;
+    width: 620px;
+	margin:0px 0px;	
+	padding: 0px 440px;	
+	float: left;
+}
+.daohang a{
+	text-decoration:none;  
+}
+.daohang ul li{
+	float: left;
+	list-style-type: none;
+}
+.input{
+	margin: 0px 0px;
+}
+.four{
+	padding: 0px 10px;
+}
+.content{
+	padding: 20px 100px;
+}
+.geshou{
+	background-image: url(../images/5.jpg);
+	background-repeat: no-repeat; 
+    background-size: 400px 200px;
+    margin: 20px 20px;
+}
+.bisai{
+	background-image: url(../images/9.png);
+	background-repeat: no-repeat;
+	background-size: 400px 500px;
+	margin: 20px 20px;
+	padding: 30px 30px;
+}
+.bisai ol li a{
+	text-decoration: none;
+}
+.fanhui{
+	margin: 20px 20px;
+}
+.fanhui a{
+	color: #00fff0;
+}
+.geming{
+	float: left;
+	padding: 40px 40px;
+}
+.da{
+	float: left;
+	padding: 50px 50px;
+}
+span{
+	padding: 4px 60px;
+	margin: 0px 0px;
+	float: right;
+}
+.geming  ol li{
+    padding: 10px 60px;
+	margin: 0px 0px;
+}
+.tupian{
+	float: left;
+	width: 200px;
+	height: 400px;
+	padding: 60px 20px;
+}
+.footer{
+    float: left;   
+	text-align: center;
+}
+
+
